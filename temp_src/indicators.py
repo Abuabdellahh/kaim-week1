@@ -10,6 +10,7 @@ from loguru import logger
 from datetime import datetime
 import talib
 
+
 class TechnicalIndicators:
     """Class for calculating technical indicators."""
     
